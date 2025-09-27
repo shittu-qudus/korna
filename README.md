@@ -23,27 +23,40 @@ This project recreates Medium’s homepage with attention to visual accuracy, re
 - **Desktop (≥1024px):** Optimized wide layout
 
 
-
+## Desktop view
 ![Homepage Screenshot(Desktop)](./public/desktop.png)
 
-
+## Mobile view
 ![Homepage Screenshot(Mobile)](./public/mobile.png)
 
 ## 📁 Project Structure
-
+```tree
 src/
-├── components/
-│   ├── Header/
-│   ├── ArticleCard/
-│   ├── Sidebar/
-│   ├── StaffPicks/
-│   ├── TopicsSection/
-│   └── FollowSection/
-├── data/
-│   └── mockData.js
-├── App.jsx
-├── App.css
-└── main.jsx
+├── components/              # Reusable UI Components
+│   ├── Header/             # Navigation header component
+│   │   ├── Header.jsx
+│   │   └── Header.css
+│   ├── ArticleCard/        # Individual article component
+│   │   ├── ArticleCard.jsx
+│   │   └── ArticleCard.css
+│   ├── Sidebar/            # Sidebar container
+│   │   ├── Sidebar.jsx
+│   │   └── Sidebar.css
+│   ├── StaffPicks/         # Staff recommendations
+│   │   ├── StaffPicks.jsx
+│   │   └── StaffPicks.css
+│   ├── TopicsSection/      # Recommended topics
+│   │   ├── TopicsSection.jsx
+│   │   └── TopicsSection.css
+│   └── FollowSection/      # Who to follow section
+│       ├── FollowSection.jsx
+│       └── FollowSection.css
+├── data/                   # Static data
+│   └── mockData.js         # Mock content data
+├── App.jsx                 # Main application component
+├── App.css                 # Global styles
+└── main.jsx                # Application entry point
+```
 
 
 ##  ✅ Prerequisites

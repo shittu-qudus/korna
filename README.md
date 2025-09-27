@@ -46,53 +46,57 @@ src/
 └── main.jsx
 
 
-✅ Prerequisites
-Node.js (v16+)
-npm or yarn
-✅ Installation
+##  ✅ Prerequisites
+- **Node.js (v16+)**
+- **npm or yarn**
 
-git clone <repository-url>
-cd medium-clone
-npm install
-npm run dev
+## ✅ Installation
+
+ ## git clone <https://github.com/shittu-qudus/korna>
+- **cd my-app**
+- **npm install**
+- **npm run dev**
 
 Open in browser:
 http://localhost:5173
 ✅ Available Scripts
 
-🎯 Design & Implementation Notes
-🧩 Technical Choices
-Mobile-first media queries
-Scoped styling with Styled Components
-Reusable, modular components
-Mock data simulating API responses
+## 🧩 Technical Choices
+- **Mobile-first media queries**
+- **Scoped styling with Styled Components**
+- **Reusable, modular components**
 
-✅ Assumptions
-Articles prioritized over sidebar on mobile
-Larger touch targets and proper spacing
-Progressive enhancement approach
-Lazy-loading considered in structure
-📏 Breakpoints
-Mobile: ≤ 768px
-Tablet: 769–1023px
-Desktop: ≥ 1024px
 
-🚀 Deployment
-Deployed on Vercel:
-[Live Demo Link] (Add your deployment URL)
-To create a production build:
-npm run build
+## ✅ Assumptions
+- **Articles prioritized over sidebar on mobile**
+- **Larger touch targets and proper spacing**
+- **Progressive enhancement approach**
+- **Lazy-loading considered in structure**
 
-📝 Additional Notes
-Visual implementation prioritized over functionality
-Optimized for modern browsers
-Semantic HTML for accessibility
-Efficient rendering and styling practices
-most of icon/small coundn't be extracted,emoji was used to replace them
+## 📏 Breakpoints
+- **Mobile: ≤ 768px**
+- **Tablet: 769–1023px**
+- **Desktop: ≥ 1024px**
 
-📬 Contact
-SHITTU QUDUS A
-shittuqadekunle@gmail.com
-https://www.github.com/in /shittu-qudus 
-Submission for Korna Frontend Engineer Position
-Completed: September 2025
+## 🚀 Deployment
+- **Deployed on Vercel:**
+- **[Live Demo Link] (https://korna.vercel.app/)**
+- **To create a production build:**
+## npm run build
+
+## 📝 Additional Notes
+- **Visual implementation prioritized over functionality**
+- **Optimized for modern browsers**
+- **Semantic HTML for accessibility**
+- **Efficient rendering and styling practices**
+- **most of icon/small coundn't be extracted,emoji was used to replace them**
+
+### Contact & Submission Info
+
+**Developer:** SHITTU QUDUS A  
+**Email:** [shittuqadekunle@gmail.com](mailto:shittuqadekunle@gmail.com)  
+**GitHub:** [shittu-qudus](https://github.com/shittu-qudus)
+
+**Assessment For:** Korna - Frontend Engineer Position  
+**Submission Date:** September 2025  
+

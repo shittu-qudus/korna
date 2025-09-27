@@ -1,0 +1,46 @@
+.staff-picks {
+  margin-bottom: 40px;
+ 
+}
+
+.staff-picks h3 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #000;
+}
+
+.staff-card {
+  margin-bottom: 28px;
+}
+
+.staff-name {
+  font-size: 14px;
+  color: #666;
+  margin: 0 0 8px 0;
+  font-weight: normal;
+}
+
+.staff-message {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 0 8px 0;
+  line-height: 1.3;
+  color: #000;
+}
+
+.staff-date {
+  font-size: 13px;
+  color: #666;
+}
+
+.see-more {
+  font-size: 14px;
+  color: #666;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.see-more:hover {
+  color: #000;
+}

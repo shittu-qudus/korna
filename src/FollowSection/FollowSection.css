@@ -1,0 +1,64 @@
+.follow-section {
+  margin-bottom: 40px;
+}
+
+.follow-section h4 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #000;
+}
+
+.follow-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  padding: 16px 0;
+
+}
+
+.follow-info {
+  flex: 1;
+}
+
+.follow-name {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0 0 4px 0;
+  color: #000;
+}
+
+.follow-caption {
+  font-size: 13px;
+  color: #666;
+  margin: 0;
+  line-height: 1.3;
+}
+
+.follow-btn {
+  background: transparent;
+  border: 1px solid #000;
+  border-radius: 20px;
+  padding: 6px 16px;
+  font-size: 13px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.follow-btn:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.see-more {
+  font-size: 14px;
+  color: #666;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.see-more:hover {
+  color: #000;
+}
